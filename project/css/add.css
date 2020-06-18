@@ -1,0 +1,88 @@
+html ,body{
+    height: 120%;
+    background: black;
+    margin: 5%;
+}
+.container{
+    height: 100%;
+    background: midnightblue;
+    display: flex;
+}
+.image-container,.login-form{
+    height: 100%;
+}
+.image-container{
+    background: #010149 ;
+    width: 25%;
+}
+.login-form{
+    background: midnightblue;
+    width: 75%;
+}
+h1{
+    margin-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: steelblue;
+    text-align: center;
+}
+.pic{
+    height: 30px;
+    width: 30px;
+}
+.read{
+    margin-top: 40px;
+    padding: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: steelblue;
+    text-align: center;
+
+}
+.head{
+    margin-top: 50px;
+    padding: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+    color: steelblue;
+    text-align: left;
+    text-decoration: black;
+}
+h3{
+    color: steelblue;
+}
+table{
+    height: 10px;
+    width: 500px;
+    border: black;
+}
+.type{
+    background: whitesmoke;
+    border-radius: 15px 15px 15px 15px;
+}
+.ab{
+    width: 60%;
+    height: 20%;
+    background: whitesmoke;
+    border-radius: 15px 15px 15px 15px;
+}
+#ee{
+    margin-top: 10px;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: steelblue;
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: steelblue;
+    
+}
+.fic{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: slategray;
+}

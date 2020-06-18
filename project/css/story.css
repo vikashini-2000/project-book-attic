@@ -1,0 +1,107 @@
+html ,body{
+    height: 200%;
+    background: black;
+    margin: 5%;
+}
+.container{
+    height: 100%;
+    background: midnightblue;
+    display: flex;
+}
+.image-container,.login-form{
+    height: 100%;
+}
+.image-container{
+    background: #010149 ;
+    width: 25%;
+}
+.login-form{
+    background: midnightblue;
+    width: 75%;
+}
+h1{
+    margin-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: steelblue;
+    text-align: center;
+}
+.pic{
+    height: 30px;
+    width: 30px;
+}
+.read{
+    margin-top: 40px;
+    padding: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: steelblue;
+    text-align: center;
+
+}
+.head{
+    margin-top: 50px;
+    padding: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:x-large;
+    color: steelblue;
+    text-align: left;
+    text-decoration: black;
+}
+.back{
+    height: 30px;
+    width: 30px;
+}
+.big{
+    height: 200px;
+    width: 150px;
+    margin-left: 5px;
+    
+
+}
+.high{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: snow;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 5px;
+    
+}
+p{
+    margin-top: auto;
+}
+.io{
+    height: 30px;
+    width: 90px;
+
+}
+h2{
+    margin-left: 320px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: snow;
+}
+.amt{
+    margin-left: 320px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: snow;
+    margin-top: 10px;
+
+}
+.add{
+    margin-left: 320px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: rgb(6, 42, 90)184, 89, 89);
+    
+}
+.abt{
+    align-self:top;
+    margin-top: 10px;
+}
+.sub{
+    font-family: sans-serif;
+    font-size: medium;
+}
